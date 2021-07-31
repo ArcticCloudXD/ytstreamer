@@ -2,7 +2,7 @@ const express = require('express')
 const app = express();
 const port = 3000
 
-app.get('/', (req, res) => res.send('Yo boi!!'))
+app.get('/', (req, res) => res.send('Go 2 Uptimerobot'))
 
 app.listen(port, () =>
 console.log(`Your app is listening to http://localhost:${port}`)
@@ -21,7 +21,7 @@ const config = {
 client.login(config.token)
 
 client.on("ready",()=>{
-    console.log(`BOT ${client.user.tag} Has now been launched!! 🚀 Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002`)
+    console.log(`BOT ${client.user.tag} Has now been launched!! 🚀 Coded by Arctic Cloud#0001`)
     client.user.setActivity("MINIGAMES", {type:"COMPETING"})
 })
 
