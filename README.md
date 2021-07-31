@@ -8,4 +8,4 @@ This is a code for a bot which allows you to watch youtube in discord!! Using th
  If this code helped you make sure to follow me on **[GitHub](https://github.com/ArcticCloudXD)**
  Also make sure to subscribe to Discord Tricks channel, they kinda helped me make this code :) **[Channel](https://youtube.com/discordtricks)** 
  
- *Thanks for choosing YTT streamer bot :)*
+ *Thanks for choosing YTT streamer bot :) and go do check out my channel, as well as that of discordtricks :)*
